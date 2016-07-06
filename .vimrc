@@ -14,4 +14,4 @@ map <C-l> <C-w>l
 cmap w!! w !sudo tee > /dev/null %
 
 " Space to go half page down
-nnoremap <SPACE> <C-D>
+nnoremap <SPACE> <PAGEDOWN>
