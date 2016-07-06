@@ -12,3 +12,6 @@ map <C-l> <C-w>l
 
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
+
+" Space to go half page down
+nnoremap <SPACE> <C-D>
