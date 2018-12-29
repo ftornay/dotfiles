@@ -20,6 +20,8 @@ map <Space> :w!<CR>
 " Allow saving of files as sudo when I forgot to start vim using sudo
 cmap w!! w !sudo tee > /dev/null %
 
+" Highlight searches
+set hlsearch
 " Show hybrid line numbers for normal mode
 set number relativenumber
 " But absolute numbers for insert mode
