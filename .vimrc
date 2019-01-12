@@ -46,6 +46,10 @@ Plug 'https://github.com/tpope/vim-surround.git'
 
 " Repeat plugin
 Plug 'https://github.com/tpope/vim-repeat.git'
+
+" Indent text object plugin
+Plug 'https://github.com/michaeljsmith/vim-indent-object.git'
+
 " Initialize plugin system
 call plug#end()
 
