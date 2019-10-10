@@ -125,6 +125,6 @@ shopt -s globstar
 
 # Execute tmux in interactive sessions
 # If not running interactively, do not do anything
-[[ $- != *i* ]] && return
+#[[ $- != *i* ]] && return
 # Otherwise start tmux
-[[ -z "$TMUX" ]] && exec tmux
+#[[ -z "$TMUX" ]] && exec tmux

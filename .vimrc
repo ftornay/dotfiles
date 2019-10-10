@@ -54,3 +54,4 @@ Plug 'https://github.com/michaeljsmith/vim-indent-object.git'
 call plug#end()
 
 " PlugInstall will install plugins
+"
