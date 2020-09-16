@@ -11,6 +11,9 @@ set smartcase
 " Hide netrw browser banner
 let g:netrw_banner = 0
 
+" allow the . to execute once for each line of a visual selection
+vnoremap . :normal .<CR>
+
 " Easier movement through windows
 map <C-h> <C-w>h
 map <C-j> <C-w>j
