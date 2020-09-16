@@ -8,6 +8,9 @@ set autoindent
 set ignorecase
 set smartcase
 
+" Hide netrw browser banner
+let g:netrw_banner = 0
+
 " Easier movement through windows
 map <C-h> <C-w>h
 map <C-j> <C-w>j
@@ -54,4 +57,3 @@ Plug 'https://github.com/michaeljsmith/vim-indent-object.git'
 call plug#end()
 
 " PlugInstall will install plugins
-"
