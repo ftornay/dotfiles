@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=true
+Type=Application
+Name=JupyterLab
+Exec=/home/ftornay/miniconda3/bin/jupyter lab
+Icon=/home/ftornay/.local/share/icons/hicolor/jupyterlab.png
+Name[en_US]=Jupyter Lab
+StartupWMClass=Jupyterlab

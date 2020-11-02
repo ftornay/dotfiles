@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=IPython
+Comment=GUI console for Python
+Exec=/home/ftornay/miniconda3/bin/jupyter qtconsole --style monokai
+Icon=python3
+Terminal=false
+Type=Application
+Categories=Programming;Application;
