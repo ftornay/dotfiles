@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Unity
+Comment=Unity Hub
+Exec=/home/ftornay/Unity/UnityHub.AppImage
+Icon=Unity
+Terminal=false
+Type=Application
+Categories=Programming;Application;
