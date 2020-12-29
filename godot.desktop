@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Godot
+Exec=/opt/Godot_v3.2.3-stable_x11.64
+Icon=/home/francisco/.local/share/icons/hicolor/Godot_icon.svg
+Name[en_US]=Jupyter Lab
+StartupWMClass=Jupyterlab
