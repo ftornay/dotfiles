@@ -1,3 +1,6 @@
+" Color scheme
+colorscheme koehler
+
 " Use soft tabs 4 spaces long
 set expandtab
 set shiftwidth=4
