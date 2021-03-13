@@ -65,6 +65,9 @@ Plug 'https://github.com/tpope/vim-repeat.git'
 " Indent text object plugin
 Plug 'https://github.com/michaeljsmith/vim-indent-object.git'
 
+" Kotlin-vim
+Plug 'https://github.com/udalov/kotlin-vim'
+
 " Initialize plugin system
 call plug#end()
 

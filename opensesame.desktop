@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Opensesame
+Exec=/home/francisco/opensesame.sh
+Icon=/home/francisco/.local/share/icons/hicolor/opensesame.svg
+Name[en_US]=Opensesame
+StartupWMClass=Opensesame
