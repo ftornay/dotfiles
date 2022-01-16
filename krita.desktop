@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Krita
+Exec=/opt/krita-5.0.0-x86_64.appimage
+Icon=/home/francisco/.local/share/icons/hicolor/Calligra_Krita_icon.svg
+Name[en_US]=Krita
+StartupWMClass=krita
