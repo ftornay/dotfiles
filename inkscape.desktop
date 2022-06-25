@@ -6,4 +6,4 @@ Name=Inkscape
 Exec=/opt/Inkscape-c4e8f9e-x86_64.AppImage
 Icon=/home/francisco/.local/share/icons/hicolor/inkscape-icon.svg
 Name[en_US]=Inkscape
-StartupWMClass=inkscape
+StartupWMClass=org.inkscape.Inkscape

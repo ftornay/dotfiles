@@ -29,6 +29,9 @@ map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
 
+" Nice terminal on bottom
+nmap <C-t>t :bo term ++rows=10<CR>
+
 " Use <Space> to save current buffer
 map <Space> :w!<CR>
 
